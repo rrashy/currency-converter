@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="label_real">BRL</string>
+    <string name="label_dollar">USD</string>
+    <string name="label_euro">EUR</string>
+    <string name="label_button">Convert</string>
+</resources>
